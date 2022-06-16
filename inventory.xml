@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<data>
+  <item name="A">
+    <price>50</price>
+    <promo>
+	    <nth>3</nth>
+	    <name>3 for £130</name>
+    	<discount>20</discount>
+    	<func></func>
+    </promo>
+  </item>
+  <item name="B">
+    <price>30</price>
+    <promo>
+    	<nth>2</nth>
+    	<name>2 for £45</name>
+    	<discount>15</discount>
+	    <func></func>
+   	</promo>
+  </item>
+  <item name="C">
+    <price>20</price>
+  </item>
+  <item name="D">
+    <price>15</price>
+  </item>
+  <item name="E">
+    <price>3</price>
+  </item>
+</data>
